@@ -1,0 +1,1 @@
+Playing with jQuery Mobile to create a smartphone friendly bio page 
